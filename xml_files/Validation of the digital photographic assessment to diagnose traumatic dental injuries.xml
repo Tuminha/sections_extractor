@@ -7,10 +7,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Validation of the digital photographic assessment to diagnose traumatic dental injuries</title>
-				<funder ref="#_hb4ddsC">
+				<funder ref="#_sNsxDmE">
 					<orgName type="full">Brazilian Government Agency for Science Developing (CPNq)</orgName>
 				</funder>
-				<funder ref="#_PNfd86P">
+				<funder ref="#_EjbQfZ2">
 					<orgName type="full">Brazilian Agency CNPq</orgName>
 				</funder>
 			</titleStmt>
@@ -145,7 +145,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2024-06-09T00:25+0000">
+				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2024-06-09T01:06+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -188,10 +188,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The authors acknowledge the <rs type="funder">Brazilian Government Agency for Science Developing (CPNq)</rs> for the research funding grant #<rs type="grantNumber">402350</rs> to the <rs type="institution">PI (FFD)</rs>. We would also like to thank the <rs type="funder">Brazilian Agency CNPq</rs> for the Pos-Doc scholarship (#<rs type="grantNumber">502799/2014-5</rs>) provided for the first author (GSP). Also the authors would like to thank the Secretary of Education (public schools) and the Directors from private schools for allowing the clinical examination and interviews. Moreover, the authors would like to thank <rs type="institution">Colgate</rs> for the oral hygiene kits distributed.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_hb4ddsC">
+				<org type="funding" xml:id="_sNsxDmE">
 					<idno type="grant-number">402350</idno>
 				</org>
-				<org type="funding" xml:id="_PNfd86P">
+				<org type="funding" xml:id="_EjbQfZ2">
 					<idno type="grant-number">502799/2014-5</idno>
 				</org>
 			</listOrg>
