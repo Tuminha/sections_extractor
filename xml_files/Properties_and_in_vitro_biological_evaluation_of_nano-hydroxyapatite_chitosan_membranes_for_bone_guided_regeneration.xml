@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Properties and in vitro biological evaluation of nano-hydroxyapatite/chitosan membranes for bone guided regeneration</title>
+				<funder ref="#_dwZdGSG">
+					<orgName type="full">China</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2008-05-21">21 May 2008</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Cheng</forename><surname>Xianmiao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Analytical and Testing Center</orgName>
+								<orgName type="institution" key="instit1">The Research Center for Nano-Biomaterials</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610064</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Sichuan University</orgName>
+								<address>
+									<postCode>610064</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Li</forename><surname>Yubao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Analytical and Testing Center</orgName>
+								<orgName type="institution" key="instit1">The Research Center for Nano-Biomaterials</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610064</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zuo</forename><surname>Yi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Analytical and Testing Center</orgName>
+								<orgName type="institution" key="instit1">The Research Center for Nano-Biomaterials</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610064</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhang</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Analytical and Testing Center</orgName>
+								<orgName type="institution" key="instit1">The Research Center for Nano-Biomaterials</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610064</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Li</forename><surname>Jidong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Analytical and Testing Center</orgName>
+								<orgName type="institution" key="instit1">The Research Center for Nano-Biomaterials</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610064</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Sichuan University</orgName>
+								<address>
+									<postCode>610064</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wang</forename><surname>Huanan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Analytical and Testing Center</orgName>
+								<orgName type="institution" key="instit1">The Research Center for Nano-Biomaterials</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610064</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Properties and in vitro biological evaluation of nano-hydroxyapatite/chitosan membranes for bone guided regeneration</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2008-05-21">21 May 2008</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">81AB83178413AA66BD3B63BD9CA5C5BF</idno>
+					<idno type="DOI">10.1016/j.msec.2008.05.008</idno>
+					<note type="submission">Received 28 August 2007 Received in revised form 15 April 2008 Accepted 8 May 2008</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2024-06-08T10:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Nano-hydroxyapatite Chitosan Biological evaluation Guided bone regeneration membrane</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Nano-hydroxyapatite(n-HA)/chitosan(CS) composite membranes were prepared by solvent casting and evaporation methods for the function of guided bone regeneration (GBR). The effect of n-HA content and solvent evaporation temperature on the properties of the composite membranes was studied. The n-HA/CS membranes were analyzed by scanning electron microscopy, Fourier transformed infrared spectroscopy, Xray diffraction, swelling measurement, mechanical test, cell culture and MTT (3-[4,5-dimethylthiazol-2-yl]-2,5-diphenylte-2H-tetrazolium bromide) assay. The results show that the surface roughness and micropores of the composite membranes increase with the rise of n-HA content, suitable for adhesion, crawl and growth of cells. The hydroxyapatite holds nano size and distributes uniformly in the composite membranes. Chemical bond interaction exists between Ca ions and -OH groups of n-HA and -NH 2 or -OH groups of CS. The n-HA content and solvent evaporation temperature have obvious influence on the swelling ratio, tensile strength and elongation rate of the composite membranes. Cell culture and MTT assays show that n-HA and its content can affect the proliferation of cells. The n-HA/CS composite membranes have no negative effect on the cell morphology, viability and proliferation and possess good biocompatibility. This study makes the n-HA/CS composite membrane be a prospective biodegradable GBR membrane for future applications.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Since Nyman et al. successfully cured periodontal diseases by barrier membrane technique (BMT) in 1982 <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>, guided tissue regeneration (GTR) <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b2">3]</ref> and guided bone regeneration (GBR) <ref type="bibr" target="#b3">[4]</ref> have been successively introduced in clinic. Both GTR and GBR are techniques that use a barrier membrane to prevent the appearance of epithelial migration and connective tissue, the GBR technique also aims to promote bone regeneration. These techniques have been applied in clinical dentistry to some cases including dental implant therapy <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref> and bone grafting materials <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref> for a decade.</p><p>GBR technique is primarily accompanied by barrier membranes <ref type="bibr" target="#b8">[9]</ref>, thereby the barrier membranes and their properties play an important role in GBR technique. At present, non-bioresorbable and bioresorbable membranes are two main types of barrier membranes <ref type="bibr" target="#b8">[9]</ref>. Expanded polytetrafluoroethylene (e-PTFE) is the most commonly used non-bioresorbable membrane, while collagen membrane is the representative of the bioresorbable membrane. The excellent biocompatibility of e-PTFE membrane has been confirmed by many studies, but it requires a second surgery, which increases the risk of patient infection and other undesirable side effects. Collagen membrane has excellent cell affinity and biocompatibility to regenerate tissues <ref type="bibr" target="#b9">[10]</ref>, however, the mechanical strength of the membrane is normally weak and it is therefore difficult to manipulate. Furthermore, its degradation rate is difficult to match normal tissuehealing process <ref type="bibr" target="#b9">[10]</ref>. To find an ideal barrier membrane material is still the key to promote GBR technique.</p><p>Currently, bioresorbable membranes have been highlighted because of their absence of a second surgery, and have come to be widely used in barrier membranes <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref>. Furthermore, decreased tissue morbidity and lower risk of loss of newly formed bone are the extra advantages of these bioresorbable membranes. Chitosan is a cationic polysaccharide formed by a linear chain of D-glucosamine and N-acetyl-D-glucosamine residues linked by β-(1-4) bonds <ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref>, and it is partially acetylated glucosamine obtained by deacetylation of chitin which is the most abundant natural polymer. As a natural polysaccharide, chitosan possesses not only the biodegradable characteristic of resorbable membranes, but also many useful features which other degradable polymers do not have, such as, non-toxicity, good biocompatibility, wound-healing <ref type="bibr" target="#b15">[16]</ref>, antimicrobial properties <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>, good film properties <ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref> and capability of chemical modifications or combinations <ref type="bibr" target="#b21">[22]</ref>. These characteristics make chitosan be an ideal candidate for tissue engineering and potential bioresorbable barrier membrane. In previous studies, several types of chitosan-based membranes have been investigated for the GBR membranes.</p><p>Hydroxyapatite (HA, Ca 10 (PO 4 ) 6 (OH) 2 ) can promote the formation of bone-like apatite on its surface <ref type="bibr" target="#b22">[23]</ref>, and is used in various biomedical fields. Polymers combined with HA are capable of promoting osteoblast adhesion, migration, differentiation and proliferation <ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref>, especially useful for potential applications in bone repair and regeneration. HA particles have been incorporated into chitosan matrices to enhance the bioactivity of tissue engineering scaffolds for hard tissue regeneration <ref type="bibr" target="#b27">[28]</ref>. Therefore, composite membrane of HA and chitosan is expected to be a good degradable barrier membrane for GBR technique.</p><p>In this study, nano-hydroxyapatite and chitosan (n-HA/CS) composite membranes were prepared by solvent casting and evaporation methods. The physical-chemical properties, swelling in water and mechanical properties of the membranes with different n-HA content and prepared at different temperatures were tested by SEM, FTIR, XRD etc. The biocompatibility was evaluated in vitro by culturing with bone marrow stromal cells (BMSCs). Such a composite membrane will provide a good prospect for further research and development in GBR membrane.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Materials</head><p>Chitosan (CS) with a molecular weight of about 400,000 and a degree of N-deacetylation of 95% was from Haidebei Biotechnology Co. (Jinan, China). Ca(NO 3 ) 2 •4H 2 O, (NH 4 ) 3 PO 4 •3H 2 O, ammonium hydroxide, ice-acetic acid, NaOH and other reagents were analytical grade.</p><p>Fig. <ref type="figure">1</ref>. SEM photographs of the surface and cross-section of n-HA/CS composite membranes: (a) CS (pure), (b) n-HA/CS (4/6), (c) n-HA/CS (6/4), (d) n-HA/CS (4/6), (e) n-HA/CS (6/4) and (f) the cross-section of n-HA/CS (4/6).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.1.">Preparation of n-HA</head><p>Nano-hydroxyapatite (n-HA) was prepared by a precipitation reaction between Ca(NO 3 ) 2 •4H 2 O and (NH 4 ) 3 PO 4 •3H 2 O as the following reaction:</p><formula xml:id="formula_0">CaðNO 3 Þ 2 d4H 2 O þ ðNH 4 Þ 3 PO 4 d3H 2 O→Ca 10 ðPO 4 Þ 6 ðOHÞ 2<label>ð1Þ</label></formula><p>The pH value was kept above 10 by ammonium hydroxide. The apatite precipitation was treated at 100 °C under normal atmospheric pressure for 3 h. After treatment, the apatite precipitation turned to n-HA needle-like crystals <ref type="bibr" target="#b28">[29]</ref>. Then the n-HA slurry was fully washed to neutrality by deionized water. Finally, the n-HA slurry containing 10 wt.% n-HA and 90% deionized water was chosen to make the composite membrane with CS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.2.">Composite membrane preparation</head><p>Composite membranes were prepared by solvent casting and evaporation methods. The chitosan solution with 4 wt.% concentration was prepared by dissolving chitosan powder in 2 wt.% acetic acid solution. After chitosan powder fully dissolved, 10 wt.% nano-hydroxyapatite slurry was added dropwise. The mixture was vigorously stirred for 5 h at room temperature and then defoamed by keeping it quietly. The homogeneous mixture was casted into a glass plate and spread slowly to form a homogeneous liquid film, then dried at different temperatures to evaporate solvent. Subsequently, the composite membranes were neutralized by immersing it into a 1 mol/L NaOH solution. The obtained membranes were rinsed repeatedly in deionized water and dried at 50 °C used as samples for tests. The preparation procedure of pure chitosan membrane was similar to that described above.</p><p>The temperature that evaporated the solvent was defined as the solvent evaporation temperature. In order to investigate the effects of nano-hydroxyapatite content and the solvent evaporation temperature on the properties of composite membranes, the weight ratio of nano-hydroxyapatite to chitosan was designed at 0, 2:8, 3:7, 4:6, 5:5 and 6:4 respectively, when the solvent evaporation temperature was room temperature; the composite membranes were evaporated at 30 °C, 40 °C, 50 °C, 60 °C, 70 °C and 90 °C separately, when the ratio of n-HA to CS was 4:6.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Test of properties</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.1.">SEM observation</head><p>The surface and cross-section morphologies of the n-HA/CS membranes were observed with an electron scanning microscopy (SEM, JEM-100CX, Japan) at 20 kV after sputtering gold.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.2.">FTIR analysis</head><p>The Fourier transform infrared (FTIR) analyses of the n-HA/CS membranes were performed with a Perkin-Elmer 6000 FTIR spectrometer (Nicolet Perkin Elmer Co) in a wavenumber range of 500-4000 cm -1 .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.3.">XRD analysis</head><p>The n-HA/CS membranes were tested by an X-ray diffractometer (XRD, X'Per Pro MPD, Philip, The Netherlands) with Cu Kα radiation (λ = 0.154 nm) at a scanning rate of 4°/min.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.4.">Swelling behavior in water</head><p>The swelling behavior of n-HA/CS composite membranes was determined at 45 °C in phosphate buffered saline (PBS) using a gravimetric method. After drying to constant weight in a vacuum oven at 45 °C, the samples with a size of 2 × 2 cm 2 were immersed in PBS at pH 7.4 and 37 °C under shaking for 48 h. The swelling ratio of membranes (Q) was calculated according to the following equation:</p><formula xml:id="formula_1">Q ¼ W w -W d ð Þ =W d Â 100k<label>ð2Þ</label></formula><p>where W d was the weight of dry membrane, and W w was the weight of wet membrane which water adsorbing on the surface was removed with filter paper. Five samples of each type membrane were tested and the mean value was taken as the swelling ratio.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.5.">Mechanical test</head><p>The tensile strength (δ o ) and the elongation rate (ε o ) of the dry membranes and the wet membranes were performed at room temperature and relative humidity of 60% by a universal mechanical testing instrument (AG-10AT, Shimadzu, Japan) with a displacement rate of 20 mm/min. The results were the mean values of five parallel samples.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Cell culture experiments 2.3.1. Cells and matrix seeding</head><p>BMSCs were isolated from bone marrow obtained from neonatal Spraue-Dawley rats as previously described <ref type="bibr" target="#b29">[30]</ref>. Briefly, the femurs and tibias from rats were dissected, the ends of the bones were cut, bone marrow was flushed and a suspension was collected. The suspension of BMSCs was transferred into culture flasks with Alpha Minimum Essential Medium (αMEM) low glucose containing 20% fetal bovine serum and 2% antibiotics (200 µg/ml penicillium and 200 µg/ml streptomycin). Non-adherent hematopoietic cells were removed with the culture medium during medium change after 2 days. Thereafter, medium was changed every 3 days. The passage 2 was used for matrix seeding. The n-HA/CS composite membranes (10 mm × 12 mm) were sterilized by irradiation and incubated in culture media for 24 h before cell seeding. The membranes samples were seeded with BMSCs (1 × 10 4 cells/cm 2 ) by direct pipetting of the cell suspension onto the membranes and incubated at 37 °C/5% CO 2 in 1 ml of cell culture medium in 24-well dishes. The cell culture medium was changed every 4 days. BMSCs cultured without membranes were used as control group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.2.">MTT assay</head><p>The proliferation of BMSCs cultured with and without n-HA/CS membranes was measured by MTT (3-[4,5-dimethylthiazol-2-yl]-2,5diphenylte-2H-tetrazolium bromide) assay. After seeding for 1 day, 4 days, 7 days and 11 days, cells were incubated in 40 μl MTT solution (0.5 mg/ml, 37 °C/5% CO 2 ) for 4 h, respectively. After removal of supernatants, 100 μl/well of Dimethyl sulfoxide (DMSO) was added and mixed. After complete solubilization of the MTT formazan, the absorbance of the contents of each well was measured at 570 nm with a microplate spectrophotometer (Perkin Elmer Co). A mean value was obtained from the measurement of nine samples.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.3.">Statistical analysis</head><p>The quantitative data were expressed as mean ± standard deviation (S.D.). The significance of differences in means was determined using Student's t-test between experimental groups, a value of p b 0.05 was considered to be statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">SEM photographs</head><p>The SEM photographs of the surface and cross-section of membranes with different n-HA content are shown in Fig. <ref type="figure">1</ref>. Compared with pure CS membrane (a), the surface of composite membranes is much rougher (b,c). The roughness increases with the increasing of n-HA content, and some small irregular pores appear on the surface of composite membrane of n-HA/CS (6/4) (d,e). The roughness and pores on the membrane surface are essential for cells   adhesion and crawl, and will also promote the growth of cells. It can be seen from Fig. <ref type="figure">1</ref>(f) that the thickness of the membrane is about 165 µm and the n-HA and CS in whole membrane are in uniform distribution.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">IR and XRD analyses</head><p>The FTIR spectra of n-HA, CS and n-HA/CS composites are shown in Fig. <ref type="figure" target="#fig_0">2</ref>. The spectra show that the characteristic bonds of hydroxyapatite and chitosan move apparently after compounding. In Fig. <ref type="figure" target="#fig_0">2</ref> (a), (b), (c) and (d), the peak at 1599 cm -1 of pure chitosan, attributed to the -NH 2 , shifts to a lower wavenumber at 1583 cm -1 , 1589 cm -1 and 1580 cm -1 corresponding to different n-HA/CS ratios, respectively. The absorption bands at 1085 cm -1 and 668 cm -1 relate to the crystallinity of chitosan <ref type="bibr" target="#b30">[31]</ref>. The peak at 1085 cm -1 shifts to 1096 cm -1 , 1112 cm -1 and 1100 cm -1 with different n-HA/CS ratios respectively. The peak at 668 cm -1 has almost no obvious shift, but the absorbance intensity becomes weaker. The hydroxyl functional group at 3570 cm -1 of n-HA disappears in the spectra of all composites. The disappearance of -OH group of n-HA and the movement of polar groups of CS suggest that the hydroxyl ions on the surface of n-HA might interact with the plentiful amino and hydroxyl ions of chitosan by the formation of hydrogen bonds (as shown in Scheme 1). The decrease of chitosan crystallinity with the increase of n-HA content also suggests a hydrogen-bonding interaction between chitosan and nano-hydroxyapatite.</p><p>According to the study on the hydroxyapatite structure <ref type="bibr" target="#b31">[32]</ref>, Ca(II) ions, which appear on the terminated surface of hydroxyapatite crystals, have a coordination number of 7 and are strictly held in the structure. So, there might form the coordination bond between the -NH 2 of chitosan and Ca(II) of nano-hydroxyapatite (as shown in Scheme 2).</p><p>Fig. <ref type="figure" target="#fig_2">3</ref> shows XRD patterns of n-HA, CS and n-HA/CS composites with different ratios. A broad peak assigned to chitosan at 20°b ecomes wider and weaker with increase of n-HA. It suggests that the addition of n-HA obviously affects the crystallinity of chitosan. The characteristic peaks at 25.8°(002) and 39.6°(310) are used to calculate the n-HA crystal sizes, according to the Scherrer formula <ref type="bibr" target="#b32">[33]</ref>:</p><formula xml:id="formula_2">D ¼ Kλ= β 1=2 cosθ<label>ð3Þ</label></formula><p>where D is the average crystal size; K is a constant depending on crystal habit (here chosen as 0.89); λ is the wavelength of X-ray radiation (1.542 Å); β 1/2 is the half width of the diffraction peak (rad); and θ (°) is Bragg angle. The half width of the instrument was taken into account, giving a value of 0.0937. The result of D values summarized in Table <ref type="table" target="#tab_0">1</ref> indicates that the n-HA in the composite membranes is nano-sized crystals. Furthermore, it can be seen that the crystal size of n-HA is smaller in the n-HA/CS composite than the pure n-HA, and the less the n-HA content is in the composite, the smaller the crystal size is. This might be caused by the acetic acid in chitosan solution during preparation of composite membranes.</p><p>Because acetic acid can partly dissolve the n-HA crystals, resulting in the size decrease of n-HA crystals. When the content of n-HA is less, the dissolution function is relatively stronger, corresponding to smaller size of n-HA crystals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Swelling behavior</head><p>The results obtained in swelling studies are shown in Figs. <ref type="figure">4</ref> and<ref type="figure">5</ref>. Fig. <ref type="figure">4</ref> indicates that the swelling ratio decreases with the increase of n-HA content, which results in the decrease of membrane hydrophilicity due to the reduction of polar hydroxyl groups and amino groups in composite membranes. Fig. <ref type="figure">5</ref> shows a slight change of swelling ratio of composite membrane (n-HA/CS 4:6) while the solvent evaporation temperature rising. The swelling ratio increases with the temperature at first, and reaches the maximum at 60 °C, then decreases again. The reason may be that increasing temperature accelerates the movement of chitosan molecules, causing the molecular chain of chitosan unfold, thus exposing more hydroxyl groups and amino groups. However, when the temperature is above 60 °C, chitosan transmutes and its hydrophilicity decreases, causing the decline of the swelling ratio <ref type="bibr" target="#b33">[34]</ref>.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Mechanical properties</head><p>The mechanical property is an important factor for GBR barrier membranes. The tensile strength and elongation rate of the composite membranes are shown in Tables <ref type="table" target="#tab_1">2</ref> and<ref type="table">3</ref>. From Table <ref type="table" target="#tab_1">2</ref>, it can be seen that the tensile strength and elongation rate of the dry membranes decrease with the rise of n-HA content. It may be the reason that the increase of n-HA content can reduce the hydrogen bond interaction among chitosan molecules and breaks the structure and crystallinity of chitosan. However, the wet membranes exhibit quite different mechanical properties from the dry membranes. For the wet membranes, there is hydroplastization caused by water, this is why the elongation rate is much larger and the tensile strength is much lower than those of dry membranes. Furthermore, for the wet membranes, there is a tendency of first increasing then decreasing in both the tensile strength and the elongation rate with the increase of n-HA content. The initial increase of the tensile strength and elongation rate may be attributed to freely unfolding of chitosan molecules. When the membrane fully swells in water, it can provide enough space with more hydrogen bond interaction between nano-hydroxyapatite and chitosan. However, with further increase of n-HA content, n-HA will have stronger influence on breaking the structure and crystallinity of chitosan than the influence of forming bond interaction with chitosan, which results in a reduction in tensile strength and a corresponding reduction in the elongation at break <ref type="bibr" target="#b34">[35]</ref>.</p><p>Table <ref type="table">3</ref> shows the tensile strength and elongation rate of the wet composite membranes with n-HA/CS ratio of 4:6 at different solvent evaporation temperatures of 30 °C, 60 °C and 90 °C, respectively. The rise of the solvent evaporation temperature can enhance chitosan molecule movement and increases the probability of interaction between nano-hydroxyapatite and chitosan. At 60 °C, the tensile strength and elongation rate have the highest value among the three. It has been reported that the mechanical properties of chitosan membrane are good when the solvent evaporation temperature is among 40-80 °C <ref type="bibr" target="#b35">[36]</ref>. When the temperature is 30 °C, the crystallinity of chitosan membrane is relatively high and its crystal particles are much small, which makes the mechanical properties poor. When the temperature is as high as 90 °C, the temperature will cause the change of chitosan properties and the chitosan membrane is nearly not a crystal structure at this moment <ref type="bibr" target="#b33">[34]</ref>, resulting in the fall of mechanical properties.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Cell experiment</head><p>The morphology and behavior of BMSCs cultured in vitro with the n-HA/CS composite membranes are observed under phase-contrast microscope and evaluated by MTT assays. Fig. <ref type="figure" target="#fig_4">6</ref> shows representative phase-contrast micrographs of cell attachment on the membrane with a n-HA/CS ratio of 4:6 after culture for 1 day, 7 days and 11 days. At the first day, only a few BMSCs are present with the elongated fusiform shape. At 7 days, a large amount of cells proliferate and form cell colony. At 11 days, the population of cells increases manifestly and cells fully attach to the membrane. Obviously, the n-HA/CS composite membrane has no negative effect on the cell morphology, viability and proliferation.</p><p>In MTT assays, the n-HA/CS composite membranes with different n-HA content (0, 40% and 60%) are used to culture with BMSCs for 1 day, 4 days, 7 days and 11 days, therewith a culture without membrane is used as blank control group. From the data in Fig. <ref type="figure" target="#fig_5">7</ref>, the cell number increases with the culture time on all the tested groups. The BMSCs cultured on membranes have much more proliferation at the first day compared with the control group (p b 0.05). The absorbance values appear to be no significant difference at 4 days and 7 days. At 11 days, the cells on control group proliferate rapidly. It can be seen that before 4 days the cells combined with pure chitosan membrane grow better than that combined with composite membranes (p b 0.05). Nevertheless, after 7 days, the cells cultured with the composite membrane of 40% n-HA get the best proliferation and cells on pure CS membrane hold the lowest proliferation among the three membrane groups (pure CS, 40% n-HA and 60% n-HA) (p b 0.05). The result shows that n-HA and its content have obvious effect on the proliferation of BMSCs.</p><p>Investigation on the proliferation of BMSCs is an important technique to evaluate the biocompatibility of biomaterials in vitro <ref type="bibr" target="#b36">[37]</ref>. In this study, the proliferation of BMSCs on n-HA/CS composite membranes is observed by microscopy and evaluated by MTT assay. Phase-contrast micrographs qualitatively determine the proliferation of BMSCs, and the MTT assays quantitatively investigate the growth of the BMSCs. According to the results, the n-HA/CS composite membranes have good biocompatibility on the basis of no negative effect on the attachment, proliferation and growth of BMSCs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusion</head><p>In this study, n-HA/CS composite membranes with different n-HA/ CS ratios were prepared through solvent casting and evaporation methods. SEM, FTIR, XRD, swelling measurement and mechanical test were applied to investigate the effects of n-HA content and solvent evaporation temperature on physical and chemical properties of the  composite membranes. The results indicate that the surface of the composite membranes is rough and microporous, suitable for adhesion, crawl and growth of cells. The hydroxyapatite holds nano size in the composite membranes and its Ca ions and -OH groups can interact with -NH 2 or -OH groups of CS. The n-HA content and solvent evaporation temperature have obvious influence on the swelling ratio, the tensile strength and the elongation rate of composite membranes. Cell culture and MTT assays show that n-HA/CS composite membranes have no cytotoxic effect on cells and possess good biocompatibility. Therefore, the n-HA/CS composite membranes may have good prospect in future GBR membrane applications.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. FTIR spectra of (a) pure CS, (b) n-HA/CS (2/8), (c) n-HA/CS (4/6), (d) n-HA/CS (6/4) and (e) n-HA.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Scheme 2 .</head><label>2</label><figDesc>Scheme 2. Interaction between Ca(II) of hydroxyapatite and -NH 2 of chitosan (-coordination bonds).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. XRD patterns of (a) pure CS, (b) n-HA/CS (2/8), (c) n-HA/CS (4/6), (d) n-HA/CS (6/ 4) and (e) n-HA.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .Fig. 5 .</head><label>45</label><figDesc>Fig. 4. Effect of n-HA content on the water absorption ratio (Q) of n-HA/CS composite membrane at room temperature.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 6 .</head><label>6</label><figDesc>Fig. 6. Phase-contrast micrographs of the BMSCs (denoted as C) attached to n-HA/CS (4:6) membrane (denoted as M) after in vitro culture for 1 day (a), 7 days (b) and 11 days (c).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. MTT assays for proliferation of BMSCs combined with n-HA/CS membranes of different n-HA content cultured for 1 day, 4 days, 7 days and 11 days, compared with the control under the same culture condition.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Average crystallite size of n-HA in n-HA/CS composite membranes with different ratios</figDesc><table><row><cell>The content of n-HA (%)</cell><cell>D 002 (nm)</cell><cell>D 310 (nm)</cell></row><row><cell>20</cell><cell>17.55</cell><cell>3.93</cell></row><row><cell>40</cell><cell>20.77</cell><cell>6.84</cell></row><row><cell>60</cell><cell>29.92</cell><cell>9.16</cell></row><row><cell>100</cell><cell>39.94</cell><cell>13.55</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>The tensile strength (δ o ) and elongation rate (ε o ) of the composite membranes with different ratios at room temperature</figDesc><table><row><cell>The content of n-HA</cell><cell>δ o /(MPa)</cell><cell></cell><cell>ε o /(%)</cell><cell></cell></row><row><cell>(%)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Dry</cell><cell>Wet</cell><cell>Dry</cell><cell>Wet</cell></row><row><cell></cell><cell>membrane</cell><cell>membrane</cell><cell>membrane</cell><cell>membrane</cell></row><row><cell>0</cell><cell>65.2 ± 1.03</cell><cell>5.81 ± 1.10</cell><cell>18.50 ± 7.47</cell><cell>51 ± 4.18</cell></row><row><cell>20</cell><cell>49.7 ± 2.63</cell><cell>7.99 ± 1.11</cell><cell>15.34 ± 5.80</cell><cell>67 ± 5.70</cell></row><row><cell>30</cell><cell>51.9 ± 3.02</cell><cell>8.95 ± 1.18</cell><cell>15.85 ± 4.25</cell><cell>57 ± 7.64</cell></row><row><cell>40</cell><cell>45.1 ± 2.49</cell><cell>9.79 ± 1.76</cell><cell>10.46 ± 4.88</cell><cell>56 ± 5.00</cell></row><row><cell>50</cell><cell>44.7 ± 2.28</cell><cell>7.89 ± 1.15</cell><cell>9.68 ± 3.06</cell><cell>55 ± 5.00</cell></row><row><cell>60</cell><cell>29.3 ± 1.85</cell><cell>5.50 ± 1.17</cell><cell>6.05 ± 0.43</cell><cell>46 ± 5.48</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>C. Xianmiao et al. / Materials Science and Engineering C 29 (2009) 29-35</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgment</head><p>This study was supported by <rs type="funder">China</rs> "<rs type="programName">973" fund</rs> (No. <rs type="grantNumber">2007CB936102</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_dwZdGSG">
+					<idno type="grant-number">2007CB936102</idno>
+					<orgName type="program" subtype="full">973&quot; fund</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nyman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindhe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rylander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Cl. Periodontol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">290</biblScope>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Hammerle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Karring</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Periodontol. 2000</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">151</biblScope>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dahin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sennerby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Lekholm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Oral Maxillofac. Implants</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Buser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Belser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hirt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Berthold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Periodontics Restor. Dent</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Piattelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scarano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Paolantonio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">1725</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Piattelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scarano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Russo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matarasso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">791</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Piattelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Podda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scarano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">623</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Arx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cochran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Schenk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Buser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Oral Maxillofac</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">90</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chin. J. Aesthet. Med</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">509</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Motohiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">7564</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Simion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Misitano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gionso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Salvato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">159</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>O'neal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shyr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Macneil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Periodontol</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page">1029</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kikuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Koyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Takakud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Miyairi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shirahama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tanaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomed. Mater. Res</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page">265</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Food polysaccharides and their applications</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Winterowd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Sandford</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Marcel Dekker</publisher>
+			<biblScope unit="page">441</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A F</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chitin</forename><surname>Chemistry</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>The Mac Millan Press</publisher>
+			<biblScope unit="page">274</biblScope>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Mi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Shyu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">B</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Shyong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">165</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Yoo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Antimicrob. Agents</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">553</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ikinci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Senel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Akincibay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Pharm</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">121</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ouattara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Simard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Piette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Begin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Holley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Food Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page">139</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kubota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ohga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moriguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Polym. Sci</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page">495</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">V</forename><surname>Majeti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ravikumar</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">React. Funct. Polym</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Okuyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Noguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hanafusa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Osawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ogawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Biol. Macromol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">285</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sabokbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pandeyr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M W</forename><surname>Diaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Murraydw</forename><surname>Quinn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Sci., Mater. Med</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">659</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Eser Elcin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Elcin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Pappas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurol. Res</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">648</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y H</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">3953</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomed. Mater. Res</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page">313</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Salih</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">5221</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Wilson</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hull</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. C</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">434</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Mo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Y</forename><surname>Lv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Forum</title>
+		<imprint>
+			<biblScope unit="volume">510</biblScope>
+			<biblScope unit="issue">511</biblScope>
+			<biblScope unit="page">814</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Panepucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Siufi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Proto-Siquiera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Neder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Orellana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stem Cells</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">1263</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Iwamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Polym. Sci., Polym. Phys. Ed</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">1149</biblScope>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Masanori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Composite Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page">819</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bigi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cojazzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Panzavolta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Inorg. Biochem</title>
+		<imprint>
+			<biblScope unit="page">45</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Q</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Funct. Polym</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">76</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smitha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sridhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Membr. Sci</title>
+		<imprint>
+			<biblScope unit="volume">225</biblScope>
+			<biblScope unit="page">63</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">M</forename><surname>Mo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">D</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. J. Chin. Univ</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">989</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Corsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chellat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Yahia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Fernandes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">1255</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

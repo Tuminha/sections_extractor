@@ -1,0 +1,6 @@
+Statistical analysisData were double typed in the Epi-Info 6.04 software and statistical analysis was conducted with STATA/SE 12.0 (Stata Corp, College Station, TX, USA). 
+The prevalence of dental trauma according to the gold standard and to the photographic method with respective 95% confidence intervals (95% CI) was calculated. 
+Level of agreement between the clinical and radiographic diagnose of dental trauma (for the individual and on a tooth basis) was assessed. 
+The Cohen's kappa statistic was used to measure the reproducibility of the photographic method and the reproducibility of each of the dentists compared to the gold standard. 
+Kappa interpretation was the following: ≤0.20 (poor), 0.21-0.40 (fair), 0.41-0.60 (moderate), 0.60-0.80 (good), and 0.80-1.00 (very good) 20. 
+Sensitivity (SE), specificity (SP), positive predictive value (PPV), negative predictive value (NPV), positive likelihood ratio (PLR), negative likelihood ratio (NLR), as well as accuracy of the photographic method (with respective 95% confidence intervals) in comparison with clinical examination to detect anterior dental trauma presence were calculated.

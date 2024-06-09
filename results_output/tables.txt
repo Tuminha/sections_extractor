@@ -1,0 +1,39 @@
+Table tab_0: Table 1 .
+------------------------------------------------------------
+Level of agreement in the diagnosis of dental trauma occurrence, carried out by clinical examination (gold standard) and photographic examination for each one of the examiners and the final diagnosis (n = 412 children)
+ |  | Agreement with
+--------------------
+ | Kappa value (SE) | gold standard (%)
+Examiner 1 | 0.62 (0.05) | 92.7
+Examiner 2 | 0.60 (0.05) | 92.3
+Examiner 3 | 0.61 (0.05) | 92.2
+Final diagnosis by the | 0.64 (0.05) | 93.2
+photographic method 1 |  | 
+
+Table tab_1: Table 2 .
+------------------------------------------------------------
+Level of agreement in the diagnosis of dental trauma on a tooth basis performed by clinical examination (gold standard) and photographic examination 1 . (n = 3296 teeth)
+Photographic method
+-------------------
+Clinical examination
+(Gold standard)
+
+Table tab_2: Table 3 .
+------------------------------------------------------------
+Sensitivity
+ | , specificity, PPV, NPV, PLR, and NLR
+----------------------------------------
+for the diagnosis of dental trauma by photographic method |  |  |  | 
+compared with the clinical examination (gold standard). |  |  |  | 
+(n = 412 children) |  |  |  | 
+ |  | Clinical examination |  | 
+ |  | (Gold standard) |  | 
+ | Dental trauma | Present | Absent | Total
+Photographic | Present | 30 | 12 | 42
+method | Absent | 16 | 354 | 370
+ | Total | 46 | 366 | 412
+Sensitivity: 65.2% (95% CI 50.8-77.3); specificity 96.7% (94.4-98.1); posi- |  |  |  | 
+tive predictive value (PPV): 71.4%; negative predictive value (NPV): 96.7%; |  |  |  | 
+likelihood ratio of a positive test (PLR) 19.9 (23.4-127.6); likelihood ratio |  |  |  | 
+of a negative test (NLR) 0.36 (0.242-0.534). |  |  |  | 
+

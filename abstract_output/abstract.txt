@@ -1,0 +1,13 @@
+
+Introduction: Alternatives for monitoring dental trauma in epidemiological surveys may be useful, as data collection of epidemiological investigation can be jeopardized due to several conditions. 
+Aim: To investigate the validity of standard digital photographs to determine the occurrence of anterior dental trauma compared to the clinical examination in an epidemiological survey. 
+Methods: Participants were children aged 8-12 years old attending both private and public schools; children were clinically evaluated for the assessment of dental trauma, and standard photographs were taken from maxillary and mandibular permanent incisors of each child. 
+Validity was determined by calculating the percentages and respective 95% confidence interval of sensitivity, specificity, positive predictive value, and negative predictive value. 
+Cohen's kappa statistic was also used. 
+Results: A total of 412 children were included, totaling 3296 teeth assessed for dental trauma presence. 
+The prevalence of dental trauma was 11.2% (95% CI 8.29-14.61) and 10.2% (95% CI 7.45-13.53), respectively, for the clinical examination and the photographic method. 
+Agreement between the gold standard and the photographic diagnosis was good: 0.64 for the prevalence of dental trauma and 0.66 for diagnosis of dental trauma on a tooth basis. 
+The diagnosis through the photographic method had higher specificity (96.7%) than sensitivity (65.2%). 
+High positive likelihood ratio and low negative likelihood ratio were also observed. 
+Conclusion: The photographic assessment method of dental trauma was valid and reliable as compared to the oral clinical examination.
+			

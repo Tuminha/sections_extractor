@@ -1,0 +1,79 @@
+
+Introduction: Alternatives for monitoring dental trauma in epidemiological surveys may be useful, as data collection of epidemiological investigation can be jeopardized due to several conditions. Aim: To investigate the validity of standard digital photographs to determine the occurrence of anterior dental trauma compared to the clinical examination in an epidemiological survey. Methods: Participants were children aged 8-12 years old attending both private and public schools; children were clinically evaluated for the assessment of dental trauma, and standard photographs were taken from maxillary and mandibular permanent incisors of each child. Validity was determined by calculating the percentages and respective 95% confidence interval of sensitivity, specificity, positive predictive value, and negative predictive value. Cohen's kappa statistic was also used. Results: A total of 412 children were included, totaling 3296 teeth assessed for dental trauma presence. The prevalence of dental trauma was 11.2% (95% CI 8.29-14.61) and 10.2% (95% CI 7.45-13.53), respectively, for the clinical examination and the photographic method. Agreement between the gold standard and the photographic diagnosis was good: 0.64 for the prevalence of dental trauma and 0.66 for diagnosis of dental trauma on a tooth basis. The diagnosis through the photographic method had higher specificity (96.7%) than sensitivity (65.2%). High positive likelihood ratio and low negative likelihood ratio were also observed. Conclusion: The photographic assessment method of dental trauma was valid and reliable as compared to the oral clinical examination.
+
+Epidemiological studies related to anterior dental trauma have become more popular in the last years, and the prevalence of the outcome in children in these studies has presented a large variation from 2.4%
+(1,
+2)
+to 58.6%
+(3)
+. This wide difference in prevalence is attributed to characteristics of the populations where the studies were conducted and the diagnostic criteria of TDI (traumatic dental injuries) employed.
+Several different indexes have been developed to diagnosis dental trauma in oral health surveys
+(4,
+5)
+. However, in several occasions, the data collection of epidemiological investigation can be jeopardized due to conditions related to the patient, examiner, and the clinical situation where the data were collected. Moreover, there are inherent difficulties in comparison with the examinations performed by different examiners in large or multicentric studies
+(6,
+7)
+, and there is a need of a considerable number of examiners for a large period of time (weeks or months) for these large epidemiological surveys
+(8)
+. Therefore, there will be situations where the clinical examination would not be feasible (lack of professional, economic shortage) and alterna-tives for monitoring the oral health outcome will have to be employed.
+One method that has raised the interest of epidemiologists in recent years is the photographic method
+(9)
+. The main advantage to use intra-oral photographs in relation to the visual method is the possibility of storage of the image for further analysis, especially in longitudinal studies
+(10)
+, as well allowing the comparison of data between different studies. This method has been demonstrated as a viable alternative for diagnosis of different conditions, including dental caries, dental restorations
+(10)
+(11)
+(12)
+(13)
+, enamel opacities
+(14,
+15)
+, and fluorosis
+(9,
+16)
+.
+In relation to the diagnosis of dental trauma using photographs, there is one study already using this method
+(17)
+. However, there is no information available regarding the validity of photographic method and its reproducibility when compared to clinical diagnosis. When testing a method, two main basic patterns should be considered, the validity and reliability, which have also been called accuracy and precision
+(18)
+. Reliability indicated whether the test provides the same results when repeated by the same or different examin-ers in different occasions. Accuracy refers to the degree the examination is appropriate to establish the value of what is being measured, observed, or interpreted. The validity informs whether the results represent the truth or how much is far from it
+(18)
+.
+Therefore, the aim of this study was to test the validity of the photographic method in relation to the clinical examination (gold standard) on the detection of anterior dental trauma.
+
+Materials and methods
+The present study was conducted with a sample of children who had been involved in a multidisciplinary school-based cross-sectional study evaluating several general and oral health outcomes
+(19)
+. The participants of that study were all children aged 8-12 years old, attending both private and public schools in the city of Pelotas. Photographs of all children enrolled in 8 schools, randomly selected, of the 20 schools included in the survey, were taken for the present evaluation. The project was approved by the Human Ethics Research Committee of the Pelotas Federal University (protocol 160/2010) and by the Education Department.
+
+Training exercise
+To ensure study reliability, a training and calibration process was performed with the examiners responsible for conducting the oral examination prior to the fieldwork. Team members received a manual containing information regarding the instruments used. A mean Kappa value of 0.92 (range 0.89-0.95) was achieved for dental trauma assessment by the six examiners.
+For diagnosis of dental trauma through photographs, a training exercise was also conducted prior to the study. Training for photographic diagnosis entailed the use of color photographs (different photographs from those of the main study) to show the major clinical characteristics of each situation of interest and the criteria to be considered in the differential diagnosis.
+
+Clinical examination (gold standard)
+Children were clinically evaluated by six postgraduate dental students using protective equipment (gloves, mask, and apron) and artificial light, following procedures recommended by the World Health Organization (WHO), performed the clinical examination in regular school chairs
+(20)
+. Teeth were initially cleaned with dental gauze as and when necessary. The presence of dental trauma in the maxillary and mandibular permanent incisors was assessed using the O'Brien criteria (4). This index is widely utilized in surveys to identify the tissue involved (enamel, dentin, pulp). For each tooth, the examiner noted the type of injury, but the index does not allow discriminate diagnosis in soft issues.
+
+Photographic method
+After the clinical examination, photographs were taken by two previously trained dentists for the use of photo-graphic equipment. Each child was positioned leaning against a wall contrary to the daylight, with the Frankfort maxillary plane parallel to the floor. A cheek retractor disinfected between children was inserted into the child's mouth and the child was asked to close the incisors in edge-to-edge contact. To obtain a reproducibility of the photographic conditions and minimize differences, a professional digital camera Nikon D40 (Nikon Co, Tokyo, Japan) with objective lenses Nikkor with zoom AF-S DX ED 18-55 mm f/3.5-5.6GII, set for 55 mm and using close-up lenses (+3), which were adapted in the anterior part of the objective lenses was used. A ring flash (Vivitar Macro 6000 AF C) was used to standardize the illumination condition. All photographs were taken with a fixed aperture of f/25 with fixed speed of 100, with autofocus selection. In relation to the quality and size of the images obtained, the modes FINE (high resolution) and LARGE were selected, where each photograph occupied 2.1 megabytes. All images were registered according to the specific patient and stored in a databank.
+To standardize the size of each image, the Adobe Acrobat Photoshop CS5 software package was used, keeping the resolution in 300 dpi and a marginal cut in 25 9 19 mm. No correction in relation to color, brightness, and contrast was performed. Figure
+1
+shows the photograph of a child included in the study.
+Three pediatric dentists who were not part of data collection in the field evaluate the photographs. The recorded images were projected by one of the authors, using Optima multimedia projector in a dark room, in the same hours for all examiners. The final photographic diagnosis was based on the classification agreement between at least two of the three dentists.
+Both for the clinical and photographic examination, dental trauma was diagnosed on a tooth basis. For the individual, dental trauma was considered 'present', when an injury was detected in at least one tooth, or 'absent'.
+
+Statistical analysis
+Data were double typed in the Epi-Info 6.04 software and statistical analysis was conducted with STATA/SE 12.0 (Stata Corp, College Station, TX, USA). The prevalence of dental trauma according to the gold standard and to the photographic method with respective 95% confidence intervals (95% CI) was calculated. Level of agreement between the clinical and radiographic diagnose of dental trauma (for the individual and on a tooth basis) was assessed. The Cohen's kappa statistic was used to measure the reproducibility of the photographic method and the reproducibility of each of the dentists compared to the gold standard. Kappa interpretation was the following: ≤0.20 (poor), 0.21-0.40 (fair), 0.41-0.60 (moderate), 0.60-0.80 (good), and 0.80-1.00 (very good) 20. Sensitivity (SE), specificity (SP), positive predictive value (PPV), negative predictive value (NPV), positive likelihood ratio (PLR), negative likelihood ratio (NLR), as well as accuracy of the photographic method (with respective 95% confidence intervals) in comparison with clinical examination to detect anterior dental trauma presence were calculated.
+
+Results
+A total of 412 digital photographs were taken during the oral health survey. When observing the occurrence of anterior dental trauma, a prevalence of 11.2% (95% CI 8.3-14.6) was found in the clinical examination and a prevalence of 10.2% (95% CI 7.5-13.5) was observed in the photographic method.
+Table
+1
+displays the agreement between the diagnosis from clinical examination (gold standard) and the diagnosis carried out using the photographic method for each one of the three dentists, as measured by Cohen's kappa. Agreement between each dentist and the gold standard was good. Agreement between the gold standard and the photographic method, which is the diagnosis that agreed with at least two of the three dentists, was also considered 'good' (0.64).
+In Table
+2
+, it is possible to observe the level of agreement in the diagnosis of dental trauma on a tooth basis, considering the type of injury diagnosed and a Kappa value of 0.66 was found. Differences were observed in relation to determination of the trauma, especially in relation to enamel fractures (33 and 38 in each method).
+In Table
+3
+, it is possible to see the values of specificity, sensitivity, positive predictive value, negative predictive values, and positive and negative likelihood ratios. The diagnosis through the photographic method had higher specificity (96.7%) than sensitivity (65.2%), and accuracy was 93.2%. Both, the PPV and the NPV were high (71.4% and 96.7%, respectively). A high likelihood ratio of a positive test (19.9) and a small likelihood ratio of a negative test (0.36) were achieved.

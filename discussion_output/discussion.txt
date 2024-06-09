@@ -1,0 +1,56 @@
+
+3. Results and discussion
+
+
+3. Results and discussion
+
+
+3.1. SEM photographs
+The SEM photographs of the surface and cross-section of membranes with different n-HA content are shown in Fig. 
+. Compared with pure CS membrane (a), the surface of composite membranes is much rougher (b,c). The roughness increases with the increasing of n-HA content, and some small irregular pores appear on the surface of composite membrane of n-HA/CS (6/4) (d,e). The roughness and pores on the membrane surface are essential for cells   adhesion and crawl, and will also promote the growth of cells. It can be seen from Fig.
+(f) that the thickness of the membrane is about 165 µm and the n-HA and CS in whole membrane are in uniform distribution.
+
+
+3.2. IR and XRD analyses
+The FTIR spectra of n-HA, CS and n-HA/CS composites are shown in Fig. 
+. The spectra show that the characteristic bonds of hydroxyapatite and chitosan move apparently after compounding. In Fig.
+(a), (b), (c) and (d), the peak at 1599 cm -1 of pure chitosan, attributed to the -NH 2 , shifts to a lower wavenumber at 1583 cm -1 , 1589 cm -1 and 1580 cm -1 corresponding to different n-HA/CS ratios, respectively. The absorption bands at 1085 cm -1 and 668 cm -1 relate to the crystallinity of chitosan
+. The peak at 1085 cm -1 shifts to 1096 cm -1 , 1112 cm -1 and 1100 cm -1 with different n-HA/CS ratios respectively. The peak at 668 cm -1 has almost no obvious shift, but the absorbance intensity becomes weaker. The hydroxyl functional group at 3570 cm -1 of n-HA disappears in the spectra of all composites. The disappearance of -OH group of n-HA and the movement of polar groups of CS suggest that the hydroxyl ions on the surface of n-HA might interact with the plentiful amino and hydroxyl ions of chitosan by the formation of hydrogen bonds (as shown in Scheme 1). The decrease of chitosan crystallinity with the increase of n-HA content also suggests a hydrogen-bonding interaction between chitosan and nano-hydroxyapatite.
+According to the study on the hydroxyapatite structure 
+, Ca(II) ions, which appear on the terminated surface of hydroxyapatite crystals, have a coordination number of 7 and are strictly held in the structure. So, there might form the coordination bond between the -NH 2 of chitosan and Ca(II) of nano-hydroxyapatite (as shown in Scheme 2).
+Fig. 
+shows XRD patterns of n-HA, CS and n-HA/CS composites with different ratios. A broad peak assigned to chitosan at 20°b ecomes wider and weaker with increase of n-HA. It suggests that the addition of n-HA obviously affects the crystallinity of chitosan. The characteristic peaks at 25.8°(002) and 39.6°(310) are used to calculate the n-HA crystal sizes, according to the Scherrer formula
+:
+where D is the average crystal size; K is a constant depending on crystal habit (here chosen as 0.89); λ is the wavelength of X-ray radiation (1.542 Å); β 1/2 is the half width of the diffraction peak (rad); and θ (°) is Bragg angle. The half width of the instrument was taken into account, giving a value of 0.0937. The result of D values summarized in Table 
+indicates that the n-HA in the composite membranes is nano-sized crystals. Furthermore, it can be seen that the crystal size of n-HA is smaller in the n-HA/CS composite than the pure n-HA, and the less the n-HA content is in the composite, the smaller the crystal size is. This might be caused by the acetic acid in chitosan solution during preparation of composite membranes.
+Because acetic acid can partly dissolve the n-HA crystals, resulting in the size decrease of n-HA crystals. When the content of n-HA is less, the dissolution function is relatively stronger, corresponding to smaller size of n-HA crystals.
+
+
+3.3. Swelling behavior
+The results obtained in swelling studies are shown in Figs. 
+and
+. Fig.
+indicates that the swelling ratio decreases with the increase of n-HA content, which results in the decrease of membrane hydrophilicity due to the reduction of polar hydroxyl groups and amino groups in composite membranes. Fig.
+shows a slight change of swelling ratio of composite membrane (n-HA/CS 4:6) while the solvent evaporation temperature rising. The swelling ratio increases with the temperature at first, and reaches the maximum at 60 °C, then decreases again. The reason may be that increasing temperature accelerates the movement of chitosan molecules, causing the molecular chain of chitosan unfold, thus exposing more hydroxyl groups and amino groups. However, when the temperature is above 60 °C, chitosan transmutes and its hydrophilicity decreases, causing the decline of the swelling ratio
+.
+
+
+3.4. Mechanical properties
+The mechanical property is an important factor for GBR barrier membranes. The tensile strength and elongation rate of the composite membranes are shown in Tables 
+and
+. From Table
+, it can be seen that the tensile strength and elongation rate of the dry membranes decrease with the rise of n-HA content. It may be the reason that the increase of n-HA content can reduce the hydrogen bond interaction among chitosan molecules and breaks the structure and crystallinity of chitosan. However, the wet membranes exhibit quite different mechanical properties from the dry membranes. For the wet membranes, there is hydroplastization caused by water, this is why the elongation rate is much larger and the tensile strength is much lower than those of dry membranes. Furthermore, for the wet membranes, there is a tendency of first increasing then decreasing in both the tensile strength and the elongation rate with the increase of n-HA content. The initial increase of the tensile strength and elongation rate may be attributed to freely unfolding of chitosan molecules. When the membrane fully swells in water, it can provide enough space with more hydrogen bond interaction between nano-hydroxyapatite and chitosan. However, with further increase of n-HA content, n-HA will have stronger influence on breaking the structure and crystallinity of chitosan than the influence of forming bond interaction with chitosan, which results in a reduction in tensile strength and a corresponding reduction in the elongation at break
+.
+Table 
+shows the tensile strength and elongation rate of the wet composite membranes with n-HA/CS ratio of 4:6 at different solvent evaporation temperatures of 30 °C, 60 °C and 90 °C, respectively. The rise of the solvent evaporation temperature can enhance chitosan molecule movement and increases the probability of interaction between nano-hydroxyapatite and chitosan. At 60 °C, the tensile strength and elongation rate have the highest value among the three. It has been reported that the mechanical properties of chitosan membrane are good when the solvent evaporation temperature is among 40-80 °C
+. When the temperature is 30 °C, the crystallinity of chitosan membrane is relatively high and its crystal particles are much small, which makes the mechanical properties poor. When the temperature is as high as 90 °C, the temperature will cause the change of chitosan properties and the chitosan membrane is nearly not a crystal structure at this moment
+, resulting in the fall of mechanical properties.
+
+
+3.5. Cell experiment
+The morphology and behavior of BMSCs cultured in vitro with the n-HA/CS composite membranes are observed under phase-contrast microscope and evaluated by MTT assays. Fig. 
+shows representative phase-contrast micrographs of cell attachment on the membrane with a n-HA/CS ratio of 4:6 after culture for 1 day, 7 days and 11 days. At the first day, only a few BMSCs are present with the elongated fusiform shape. At 7 days, a large amount of cells proliferate and form cell colony. At 11 days, the population of cells increases manifestly and cells fully attach to the membrane. Obviously, the n-HA/CS composite membrane has no negative effect on the cell morphology, viability and proliferation.
+In MTT assays, the n-HA/CS composite membranes with different n-HA content (0, 40% and 60%) are used to culture with BMSCs for 1 day, 4 days, 7 days and 11 days, therewith a culture without membrane is used as blank control group. From the data in Fig. 
+, the cell number increases with the culture time on all the tested groups. The BMSCs cultured on membranes have much more proliferation at the first day compared with the control group (p b 0.05). The absorbance values appear to be no significant difference at 4 days and 7 days. At 11 days, the cells on control group proliferate rapidly. It can be seen that before 4 days the cells combined with pure chitosan membrane grow better than that combined with composite membranes (p b 0.05). Nevertheless, after 7 days, the cells cultured with the composite membrane of 40% n-HA get the best proliferation and cells on pure CS membrane hold the lowest proliferation among the three membrane groups (pure CS, 40% n-HA and 60% n-HA) (p b 0.05). The result shows that n-HA and its content have obvious effect on the proliferation of BMSCs.
+Investigation on the proliferation of BMSCs is an important technique to evaluate the biocompatibility of biomaterials in vitro 
+. In this study, the proliferation of BMSCs on n-HA/CS composite membranes is observed by microscopy and evaluated by MTT assay. Phase-contrast micrographs qualitatively determine the proliferation of BMSCs, and the MTT assays quantitatively investigate the growth of the BMSCs. According to the results, the n-HA/CS composite membranes have good biocompatibility on the basis of no negative effect on the attachment, proliferation and growth of BMSCs.

@@ -1,0 +1,37 @@
+Introduction: Alternatives for monitoring dental trauma in epidemiological surveys may be useful, as data collection of epidemiological investigation can be jeopardized due to several conditions. 
+Aim: To investigate the validity of standard digital photographs to determine the occurrence of anterior dental trauma compared to the clinical examination in an epidemiological survey. 
+Methods: Participants were children aged 8-12 years old attending both private and public schools; children were clinically evaluated for the assessment of dental trauma, and standard photographs were taken from maxillary and mandibular permanent incisors of each child. 
+Validity was determined by calculating the percentages and respective 95% confidence interval of sensitivity, specificity, positive predictive value, and negative predictive value. 
+Cohen's kappa statistic was also used. 
+Results: A total of 412 children were included, totaling 3296 teeth assessed for dental trauma presence. 
+The prevalence of dental trauma was 11.2% (95% CI 8.29-14.61) and 10.2% (95% CI 7.45-13.53), respectively, for the clinical examination and the photographic method. 
+Agreement between the gold standard and the photographic diagnosis was good: 0.64 for the prevalence of dental trauma and 0.66 for diagnosis of dental trauma on a tooth basis. 
+The diagnosis through the photographic method had higher specificity (96.7%) than sensitivity (65.2%). 
+High positive likelihood ratio and low negative likelihood ratio were also observed. 
+Conclusion: The photographic assessment method of dental trauma was valid and reliable as compared to the oral clinical examination.
+
+
+Epidemiological studies related to anterior dental trauma have become more popular in the last years, and the prevalence of the outcome in children in these studies has presented a large variation from 2.4%  (1, 2)  to 58.6%  (3) . 
+This wide difference in prevalence is attributed to characteristics of the populations where the studies were conducted and the diagnostic criteria of TDI (traumatic dental injuries) employed.
+
+
+Several different indexes have been developed to diagnosis dental trauma in oral health surveys  (4, 5) . 
+However, in several occasions, the data collection of epidemiological investigation can be jeopardized due to conditions related to the patient, examiner, and the clinical situation where the data were collected. 
+Moreover, there are inherent difficulties in comparison with the examinations performed by different examiners in large or multicentric studies  (6, 7) , and there is a need of a considerable number of examiners for a large period of time (weeks or months) for these large epidemiological surveys  (8) . 
+Therefore, there will be situations where the clinical examination would not be feasible (lack of professional, economic shortage) and alterna-tives for monitoring the oral health outcome will have to be employed.
+
+
+One method that has raised the interest of epidemiologists in recent years is the photographic method  (9) . 
+The main advantage to use intra-oral photographs in relation to the visual method is the possibility of storage of the image for further analysis, especially in longitudinal studies  (10) , as well allowing the comparison of data between different studies. 
+This method has been demonstrated as a viable alternative for diagnosis of different conditions, including dental caries, dental restorations  (10) (11) (12) (13) , enamel opacities  (14, 15) , and fluorosis  (9, 16) .
+
+
+In relation to the diagnosis of dental trauma using photographs, there is one study already using this method  (17) . 
+However, there is no information available regarding the validity of photographic method and its reproducibility when compared to clinical diagnosis. 
+When testing a method, two main basic patterns should be considered, the validity and reliability, which have also been called accuracy and precision  (18) . 
+Reliability indicated whether the test provides the same results when repeated by the same or different examin-ers in different occasions. 
+Accuracy refers to the degree the examination is appropriate to establish the value of what is being measured, observed, or interpreted. 
+The validity informs whether the results represent the truth or how much is far from it  (18) .
+
+
+Therefore, the aim of this study was to test the validity of the photographic method in relation to the clinical examination (gold standard) on the detection of anterior dental trauma.

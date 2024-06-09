@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Validation of the digital photographic assessment to diagnose traumatic dental injuries</title>
+				<funder ref="#_t8r66Zx">
+					<orgName type="full">Brazilian Agency CNPq</orgName>
+				</funder>
+				<funder ref="#_UtVdyg4">
+					<orgName type="full">Brazilian Government Agency for Science Developing (CPNq)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2015-06-06">6 June, 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Gabriela</forename><surname>Dos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Santos</forename><surname>Pinto</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Post-Graduate Program in Dentistry</orgName>
+								<orgName type="institution" key="instit2">Federal University of Pelotas</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Mar ılia</roleName><forename type="first">Leão</forename><surname>Goettems</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Post-Graduate Program in Dentistry</orgName>
+								<orgName type="institution" key="instit2">Federal University of Pelotas</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Post-Graduate Program in Health and Behavior</orgName>
+								<orgName type="institution">Catholic University of Pelotas</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Let ıcia</roleName><forename type="first">Coutinho</forename><surname>Brancher</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Post-Graduate Program in Dentistry</orgName>
+								<orgName type="institution" key="instit2">Federal University of Pelotas</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Fernando</forename><surname>Barcellos Da Silva</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gregori</forename><forename type="middle">Franco</forename><surname>Boeira</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Post-Graduate Program in Dentistry</orgName>
+								<orgName type="institution" key="instit2">Federal University of Pelotas</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marcos</forename><surname>Britto Correa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Post-Graduate Program in Dentistry</orgName>
+								<orgName type="institution" key="instit2">Federal University of Pelotas</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Post-Graduate Program in Epidemiology</orgName>
+								<orgName type="institution">Federal University of Pelotas</orgName>
+								<address>
+									<settlement>Pelotas</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Da</forename><surname>Silva</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Santos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Post-Graduate Program in Dentistry</orgName>
+								<orgName type="institution" key="instit2">Federal University of Pelotas</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Post-Graduate Program in Epidemiology</orgName>
+								<orgName type="institution">Federal University of Pelotas</orgName>
+								<address>
+									<settlement>Pelotas</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dione</forename><surname>Dias Torriani</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Post-Graduate Program in Dentistry</orgName>
+								<orgName type="institution" key="instit2">Federal University of Pelotas</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Fl</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Fernando</forename><surname>Demarco</surname></persName>
+							<email>ffdemarco@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Post-Graduate Program in Dentistry</orgName>
+								<orgName type="institution" key="instit2">Federal University of Pelotas</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Post-Graduate Program in Epidemiology</orgName>
+								<orgName type="institution">Federal University of Pelotas</orgName>
+								<address>
+									<settlement>Pelotas</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Federal University of Pelotas, R. Gonc ßalves Chaves</orgName>
+								<address>
+									<addrLine>457, 5th floor</addrLine>
+									<postCode>96015-560</postCode>
+									<settlement>Pelotas</settlement>
+									<region>RS CEP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Validation of the digital photographic assessment to diagnose traumatic dental injuries</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2015-06-06">6 June, 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FB679FA5790F0D4AE72831F8EF759706</idno>
+					<idno type="DOI">10.1111/edt.12204</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2024-06-09T00:11+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>dental photography</term>
+					<term>sensitivity</term>
+					<term>specificity</term>
+					<term>dental trauma</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Introduction: Alternatives for monitoring dental trauma in epidemiological surveys may be useful, as data collection of epidemiological investigation can be jeopardized due to several conditions. Aim: To investigate the validity of standard digital photographs to determine the occurrence of anterior dental trauma compared to the clinical examination in an epidemiological survey. Methods: Participants were children aged 8-12 years old attending both private and public schools; children were clinically evaluated for the assessment of dental trauma, and standard photographs were taken from maxillary and mandibular permanent incisors of each child. Validity was determined by calculating the percentages and respective 95% confidence interval of sensitivity, specificity, positive predictive value, and negative predictive value. Cohen's kappa statistic was also used. Results: A total of 412 children were included, totaling 3296 teeth assessed for dental trauma presence. The prevalence of dental trauma was 11.2% (95% CI 8.29-14.61) and 10.2% (95% CI 7.45-13.53), respectively, for the clinical examination and the photographic method. Agreement between the gold standard and the photographic diagnosis was good: 0.64 for the prevalence of dental trauma and 0.66 for diagnosis of dental trauma on a tooth basis. The diagnosis through the photographic method had higher specificity (96.7%) than sensitivity (65.2%). High positive likelihood ratio and low negative likelihood ratio were also observed. Conclusion: The photographic assessment method of dental trauma was valid and reliable as compared to the oral clinical examination.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Epidemiological studies related to anterior dental trauma have become more popular in the last years, and the prevalence of the outcome in children in these studies has presented a large variation from 2.4% <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b1">2)</ref> to 58.6% <ref type="bibr" target="#b2">(3)</ref>. This wide difference in prevalence is attributed to characteristics of the populations where the studies were conducted and the diagnostic criteria of TDI (traumatic dental injuries) employed.</p><p>Several different indexes have been developed to diagnosis dental trauma in oral health surveys <ref type="bibr" target="#b3">(4,</ref><ref type="bibr" target="#b4">5)</ref>. However, in several occasions, the data collection of epidemiological investigation can be jeopardized due to conditions related to the patient, examiner, and the clinical situation where the data were collected. Moreover, there are inherent difficulties in comparison with the examinations performed by different examiners in large or multicentric studies <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b6">7)</ref>, and there is a need of a considerable number of examiners for a large period of time (weeks or months) for these large epidemiological surveys <ref type="bibr" target="#b7">(8)</ref>. Therefore, there will be situations where the clinical examination would not be feasible (lack of professional, economic shortage) and alterna-tives for monitoring the oral health outcome will have to be employed.</p><p>One method that has raised the interest of epidemiologists in recent years is the photographic method <ref type="bibr" target="#b8">(9)</ref>. The main advantage to use intra-oral photographs in relation to the visual method is the possibility of storage of the image for further analysis, especially in longitudinal studies <ref type="bibr" target="#b9">(10)</ref>, as well allowing the comparison of data between different studies. This method has been demonstrated as a viable alternative for diagnosis of different conditions, including dental caries, dental restorations <ref type="bibr" target="#b9">(10)</ref><ref type="bibr" target="#b10">(11)</ref><ref type="bibr" target="#b11">(12)</ref><ref type="bibr" target="#b12">(13)</ref>, enamel opacities <ref type="bibr" target="#b13">(14,</ref><ref type="bibr" target="#b14">15)</ref>, and fluorosis <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b15">16)</ref>.</p><p>In relation to the diagnosis of dental trauma using photographs, there is one study already using this method <ref type="bibr" target="#b16">(17)</ref>. However, there is no information available regarding the validity of photographic method and its reproducibility when compared to clinical diagnosis. When testing a method, two main basic patterns should be considered, the validity and reliability, which have also been called accuracy and precision <ref type="bibr" target="#b17">(18)</ref>. Reliability indicated whether the test provides the same results when repeated by the same or different examin-ers in different occasions. Accuracy refers to the degree the examination is appropriate to establish the value of what is being measured, observed, or interpreted. The validity informs whether the results represent the truth or how much is far from it <ref type="bibr" target="#b17">(18)</ref>.</p><p>Therefore, the aim of this study was to test the validity of the photographic method in relation to the clinical examination (gold standard) on the detection of anterior dental trauma.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head><p>The present study was conducted with a sample of children who had been involved in a multidisciplinary school-based cross-sectional study evaluating several general and oral health outcomes <ref type="bibr" target="#b18">(19)</ref>. The participants of that study were all children aged 8-12 years old, attending both private and public schools in the city of Pelotas. Photographs of all children enrolled in 8 schools, randomly selected, of the 20 schools included in the survey, were taken for the present evaluation. The project was approved by the Human Ethics Research Committee of the Pelotas Federal University (protocol 160/2010) and by the Education Department.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Training exercise</head><p>To ensure study reliability, a training and calibration process was performed with the examiners responsible for conducting the oral examination prior to the fieldwork. Team members received a manual containing information regarding the instruments used. A mean Kappa value of 0.92 (range 0.89-0.95) was achieved for dental trauma assessment by the six examiners.</p><p>For diagnosis of dental trauma through photographs, a training exercise was also conducted prior to the study. Training for photographic diagnosis entailed the use of color photographs (different photographs from those of the main study) to show the major clinical characteristics of each situation of interest and the criteria to be considered in the differential diagnosis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical examination (gold standard)</head><p>Children were clinically evaluated by six postgraduate dental students using protective equipment (gloves, mask, and apron) and artificial light, following procedures recommended by the World Health Organization (WHO), performed the clinical examination in regular school chairs <ref type="bibr" target="#b19">(20)</ref>. Teeth were initially cleaned with dental gauze as and when necessary. The presence of dental trauma in the maxillary and mandibular permanent incisors was assessed using the O'Brien criteria (4). This index is widely utilized in surveys to identify the tissue involved (enamel, dentin, pulp). For each tooth, the examiner noted the type of injury, but the index does not allow discriminate diagnosis in soft issues.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photographic method</head><p>After the clinical examination, photographs were taken by two previously trained dentists for the use of photo-graphic equipment. Each child was positioned leaning against a wall contrary to the daylight, with the Frankfort maxillary plane parallel to the floor. A cheek retractor disinfected between children was inserted into the child's mouth and the child was asked to close the incisors in edge-to-edge contact. To obtain a reproducibility of the photographic conditions and minimize differences, a professional digital camera Nikon D40 (Nikon Co, Tokyo, Japan) with objective lenses Nikkor with zoom AF-S DX ED 18-55 mm f/3.5-5.6GII, set for 55 mm and using close-up lenses (+3), which were adapted in the anterior part of the objective lenses was used. A ring flash (Vivitar Macro 6000 AF C) was used to standardize the illumination condition. All photographs were taken with a fixed aperture of f/25 with fixed speed of 100, with autofocus selection. In relation to the quality and size of the images obtained, the modes FINE (high resolution) and LARGE were selected, where each photograph occupied 2.1 megabytes. All images were registered according to the specific patient and stored in a databank.</p><p>To standardize the size of each image, the Adobe Acrobat Photoshop CS5 software package was used, keeping the resolution in 300 dpi and a marginal cut in 25 9 19 mm. No correction in relation to color, brightness, and contrast was performed. Figure <ref type="figure" target="#fig_0">1</ref> shows the photograph of a child included in the study.</p><p>Three pediatric dentists who were not part of data collection in the field evaluate the photographs. The recorded images were projected by one of the authors, using Optima multimedia projector in a dark room, in the same hours for all examiners. The final photographic diagnosis was based on the classification agreement between at least two of the three dentists.</p><p>Both for the clinical and photographic examination, dental trauma was diagnosed on a tooth basis. For the individual, dental trauma was considered 'present', when an injury was detected in at least one tooth, or 'absent'.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Data were double typed in the Epi-Info 6.04 software and statistical analysis was conducted with STATA/SE 12.0 (Stata Corp, College Station, TX, USA). The prevalence of dental trauma according to the gold standard and to the photographic method with respective 95% confidence intervals (95% CI) was calculated. Level of agreement between the clinical and radiographic diagnose of dental trauma (for the individual and on a tooth basis) was assessed. The Cohen's kappa statistic was used to measure the reproducibility of the photographic method and the reproducibility of each of the dentists compared to the gold standard. Kappa interpretation was the following: ≤0.20 (poor), 0.21-0.40 (fair), 0.41-0.60 (moderate), 0.60-0.80 (good), and 0.80-1.00 (very good) 20. Sensitivity (SE), specificity (SP), positive predictive value (PPV), negative predictive value (NPV), positive likelihood ratio (PLR), negative likelihood ratio (NLR), as well as accuracy of the photographic method (with respective 95% confidence intervals) in comparison with clinical examination to detect anterior dental trauma presence were calculated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>A total of 412 digital photographs were taken during the oral health survey. When observing the occurrence of anterior dental trauma, a prevalence of 11.2% (95% CI 8.3-14.6) was found in the clinical examination and a prevalence of 10.2% (95% CI 7.5-13.5) was observed in the photographic method.</p><p>Table <ref type="table" target="#tab_0">1</ref> displays the agreement between the diagnosis from clinical examination (gold standard) and the diagnosis carried out using the photographic method for each one of the three dentists, as measured by Cohen's kappa. Agreement between each dentist and the gold standard was good. Agreement between the gold standard and the photographic method, which is the diagnosis that agreed with at least two of the three dentists, was also considered 'good' (0.64).</p><p>In Table <ref type="table" target="#tab_1">2</ref>, it is possible to observe the level of agreement in the diagnosis of dental trauma on a tooth basis, considering the type of injury diagnosed and a Kappa value of 0.66 was found. Differences were observed in relation to determination of the trauma, especially in relation to enamel fractures (33 and 38 in each method).</p><p>In Table <ref type="table" target="#tab_2">3</ref>, it is possible to see the values of specificity, sensitivity, positive predictive value, negative predictive values, and positive and negative likelihood ratios. The diagnosis through the photographic method had higher specificity (96.7%) than sensitivity (65.2%), and accuracy was 93.2%. Both, the PPV and the NPV were high (71.4% and 96.7%, respectively). A high likelihood ratio of a positive test (19.9) and a small likelihood ratio of a negative test (0.36) were achieved.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>To the best of our knowledge, this is the first study to validate the photographic method for dental trauma   Digital photographic assessment of dental trauma assessment. The overall results showed that photographic method could be used to detect TDI at the population level. The agreement in detecting dental trauma presence was good between each dentist and the gold standard, as well as the diagnostic obtained by agreement of the three dentists and the photographic method. Even though there are no universal criteria to define the ideal value of a valid method, some authors have defined a method as accurate when the sum of the sensitivity and specificity values is above 120% <ref type="bibr" target="#b17">(18)</ref>. In our study, this sum was far above 120 (161.9) demonstrating the high accuracy of photographic method. Also, in case of dental trauma type (enamel fracture, enamel dentin fracture), the Kappa value was 0.66. The replacement of a more accurate form, for example, clinical examination, to establish determined outcome by a simpler one (photographic method), could be made taking in consideration that there is some risk of classification error <ref type="bibr" target="#b20">(21)</ref>. The risks should be known and considered low. A comparison of its validity against a gold standard is needed.</p><p>The use of digital imaging for the photographic method has many advantages, as highlighted by Martins et al. <ref type="bibr" target="#b8">(9)</ref>, justifying its use: It maintains confidentiality, as the teeth can be photographed; measurements of variation in density are possible with digital images and greater resolution increases the definition of the image; and the digital camera presents a better costbenefit. Other advantages can be pointed out: It is a permanent record of enamel condition that can be compared with records made in laer evaluations; it provides a blind condition for the individual evaluation (for instance, the knowledge of socioeconomic level of the participant may interfere with the examiner's interpretation of physical signs depending on the condition assessed) <ref type="bibr" target="#b8">(9)</ref>.</p><p>The method, however, has certain limitations. A problem found in pictures of the anterior teeth is the specular reflexing and the shadow from the superior lip caused due to the flash position, which requires an examiner to be trained to perform the evaluation of standard photographs <ref type="bibr" target="#b15">(16)</ref>. To reduce this problem, in this study, the immediate evaluation of photographs was performed soon after they were taken, and in case of problem detection, a new snapshot was taken. Our study limitations also included those inherent in crosssectional analyses of photographs, only crown fractures and avulsions being detected. Soft tissue injuries, luxation injuries, and root fractures were impossible to evaluate with this method. Noteworthy, the criteria used in this study, which were developed in the United Kingdom for the Children's Dental Health Survey in 1993, comprise one of the most widely utilized diagnostic indexes. It has well-defined diagnostic criteria and is easy to use in epidemiological survey.</p><p>Furthermore, we suggest that in future studies, the photographs be taken in more than one angulation for the same patient, thereby optimizing the diagnosis. Also, in the context of a large multidisciplinary study, investigating several different outcomes, such as in our study where 1210 children, from 20 public and private schools were enrolled, including oral health examinations, anthropometric measurements, and interviews in all children <ref type="bibr" target="#b18">(19)</ref>, the time needed for snapshot may be limited.</p><p>Of the total sample (1210), 153 (12.6%, 95% CI 10.8-14.6) suffered dental trauma, with a total of 175 traumatized teeth <ref type="bibr" target="#b21">(22)</ref>. Among the 412 children included in this evaluation, the prevalence of dental trauma was 11.2% through the clinical examination and 10.2% using the photographic method. The diagnosis with the photographic method had higher specificity (96.7%) than sensitivity (65.2%). A possible explanation for this is the fact that it was difficult to diagnose trauma in case of aesthetic restorations to treat dental fracture. In few cases, children who had dental fractures treated with composite restorations were considered free of trauma.</p><p>Such finding could be due to the fact that during clinical examination, the examiner had information given by the children about the injury, while during photographic examination, the examiner was blinded and had no information about the children's oral health history. This could also difficult the correct diagnosis of avulsion, when the anamnesis would be important. To avoid this problem, information regarding dental trauma history should be made accessible to examiners.</p><p>On the other hand, in the Elwood study conducted to analyze development defects of enamel on Brazilian school children, there was a tendency for subjects to be given a higher score using photographs <ref type="bibr" target="#b22">(23)</ref>. Martins et al. <ref type="bibr" target="#b8">(9)</ref> assessed the agreement in the diagnosis of dental fluorosis performed by a standardized digital photographic method and a clinical examination (gold standard); they found a prevalence of dental fluorosis higher in the clinical examination (49%) compared with the photographic method (36.7%). The photographic method presented higher specificity (96%) than sensitivity (70.8%), demonstrating its validity to detect dental fluorosis. Regarding likelihood ratios, positive likelihood ratio is the probability of positive test in those with disease (true positive) divided by the probability of positive test in those without disease (false positive), and negative likelihood ratio is the probability of negative test in those with disease (false negative) divided by the probability of negative test in those without disease (true negative). In general, a useful test provides a high positive likelihood ratio and a small negative likelihood ratio <ref type="bibr" target="#b23">(24)</ref>, as observed in our study.</p><p>In relation to the agreement level observed when evaluating the type of dental trauma, a kappa value of 0.66 was found, which could be considered adequate. Some disagreements were observed in the classification, mostly in relation to enamel fractures. Enamel fractures are the most frequently found trauma in anterior teeth, and in the majority of the cases, they do not require any treatment <ref type="bibr" target="#b21">(22)</ref>. Therefore, the disagreement could be expected in such situations where the fracture is restricted to small portion of enamel loss.</p><p>Another disadvantage is the need of an appropriate professional digital camera, which involves a relatively high cost for initial acquisition and proper training of operator for adequate use <ref type="bibr" target="#b8">(9)</ref>. The cost of the equipment is approximately eight times higher than of conventional cameras <ref type="bibr" target="#b15">(16)</ref>. On the other hand, the cost to maintain an experienced fieldwork team in large studies is much greater. In addition, once the camera is acquired, it can be used in other epidemiological and clinical studies.</p><p>Also, a snapshot can, in several cases, replace the clinical examination made by a dentist, especially in areas difficult to access or with a lack of dental team. A trained operator could take the standard snapshots with the professional digital camera for later evaluation by a dentist. For example, Moncada et al. <ref type="bibr" target="#b11">(12)</ref> found that the digital photographs could be a simple and low cost method to perform clinical evaluation of dental restorations, avoiding the need for having a professional team in the dental offices to do evaluation of restorations in loco.</p><p>In our study, we found an adequate level of agreement between photographic method and clinical examination for anterior dental trauma. Similar results were found by Elwood when comparing clinical examination and digital photographs to detect the prevalence of fluorosis in a population, with kappa value of 0.63. Contrarily, when comparing the two methods of analyzing the presence of DDE (development defects of enamel) in primary teeth, Chen et al. found a fair to moderate result, with Kappa values ranging from 0.25 to 0.51. The photographic examination detected significantly more DDE than the clinical examination regardless of age group and type of DDE. The intra-and interexaminer reliability of the photographic method were excellent with Kappa values ranging from 0.638 to 0.927 <ref type="bibr" target="#b24">(25)</ref>. Boye et al. <ref type="bibr" target="#b10">(11)</ref> compared caries information obtained from a full mouth visual examination with caries data obtained from intraoral digital photographs of index teeth in children aged between 5 and 10/11 years and found an intrarater reliability almost perfect agreement for all the examiners using the different examination and assessment methods. Moncada et al. <ref type="bibr" target="#b11">(12)</ref> compared the performance of a direct clinical evaluation method with an indirect digital photographic method and observed a moderate agreement between the two methods.</p><p>In practical terms, one important question is to determine whether the outcome is present in the individual or not, that is, determine the PPV, also known as probability post-test <ref type="bibr" target="#b20">(21)</ref>. The prevalence of the outcome has more influence on the PPV than on SE and ES. According to our data, the probability to identify dental trauma in the photographic method as compared to clinical method was high, above 70% (71.4%).</p><p>The development of an appropriate photographic method for epidemiological studies to diagnose different dental outcomes (fluorosis, DDE, caries, quality of restorations, and dental trauma) is the current focus of interest. At least in relation to anterior dental trauma, the findings of our study are promising, showing that the method has an adequate validity as an alternative method to the clinical examination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Within the limitations of our study, the photographic assessment method of anterior dental trauma showed to be valid and reliable as compared to oral clinical examination performed in a school-based epidemiological survey.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Image showing the type of photographic image used to examine anterior dental trauma compared to clinical examination.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Level of agreement in the diagnosis of dental trauma occurrence, carried out by clinical examination (gold standard) and photographic examination for each one of the examiners and the final diagnosis (n = 412 children)</figDesc><table><row><cell></cell><cell></cell><cell>Agreement with</cell></row><row><cell></cell><cell>Kappa value (SE)</cell><cell>gold standard (%)</cell></row><row><cell>Examiner 1</cell><cell>0.62 (0.05)</cell><cell>92.7</cell></row><row><cell>Examiner 2</cell><cell>0.60 (0.05)</cell><cell>92.3</cell></row><row><cell>Examiner 3</cell><cell>0.61 (0.05)</cell><cell>92.2</cell></row><row><cell>Final diagnosis by the</cell><cell>0.64 (0.05)</cell><cell>93.2</cell></row><row><cell>photographic method 1</cell><cell></cell><cell></cell></row></table><note><p><p>1</p>Final diagnosis by the photographic method was based on the agreement of at least two of the three dentists.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Level of agreement in the diagnosis of dental trauma on a tooth basis performed by clinical examination (gold standard) and photographic examination 1 . (n = 3296 teeth)</figDesc><table><row><cell>Photographic method</cell></row><row><cell>Clinical examination</cell></row><row><cell>(Gold standard)</cell></row></table><note><p><p>Kappa value: 0.66 (SE 0.01); EF, enamel fracture; EDF, enamel dentine fracture; A, avulsion.</p>1 Final diagnosis by the photographic method was based on the agreement of at least two of the three dentists.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Sensitivity</figDesc><table><row><cell></cell><cell cols="4">, specificity, PPV, NPV, PLR, and NLR</cell></row><row><cell cols="5">for the diagnosis of dental trauma by photographic method</cell></row><row><cell cols="5">compared with the clinical examination (gold standard).</cell></row><row><cell cols="2">(n = 412 children)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Clinical examination</cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">(Gold standard)</cell><cell></cell></row><row><cell></cell><cell>Dental trauma</cell><cell>Present</cell><cell>Absent</cell><cell>Total</cell></row><row><cell>Photographic</cell><cell>Present</cell><cell>30</cell><cell>12</cell><cell>42</cell></row><row><cell>method</cell><cell>Absent</cell><cell>16</cell><cell>354</cell><cell>370</cell></row><row><cell></cell><cell>Total</cell><cell>46</cell><cell>366</cell><cell>412</cell></row><row><cell cols="5">Sensitivity: 65.2% (95% CI 50.8-77.3); specificity 96.7% (94.4-98.1); posi-</cell></row><row><cell cols="5">tive predictive value (PPV): 71.4%; negative predictive value (NPV): 96.7%;</cell></row><row><cell cols="5">likelihood ratio of a positive test (PLR) 19.9 (23.4-127.6); likelihood ratio</cell></row><row><cell cols="3">of a negative test (NLR) 0.36 (0.242-0.534).</cell><cell></cell><cell></cell></row></table><note><p>© 2015 John Wiley &amp; Sons A/S. Published by John Wiley &amp; Sons Ltd</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>© 2015 John Wiley &amp; Sons A/S. Published by John Wiley &amp; Sons Ltd</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Dental Traumatology 2016; 32: 37-42; doi: 10.1111/edt.12204</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors acknowledge the <rs type="funder">Brazilian Government Agency for Science Developing (CPNq)</rs> for the research funding grant #<rs type="grantNumber">402350</rs> to the <rs type="institution">PI (FFD)</rs>. We would also like to thank the <rs type="funder">Brazilian Agency CNPq</rs> for the Pos-Doc scholarship (#<rs type="grantNumber">502799/2014-5</rs>) provided for the first author (GSP). Also the authors would like to thank the Secretary of Education (public schools) and the Directors from private schools for allowing the clinical examination and interviews. Moreover, the authors would like to thank <rs type="institution">Colgate</rs> for the oral hygiene kits distributed.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_UtVdyg4">
+					<idno type="grant-number">402350</idno>
+				</org>
+				<org type="funding" xml:id="_t8r66Zx">
+					<idno type="grant-number">502799/2014-5</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Dental injury among Brazilian schoolchildren in the state of Sao Paulo</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grimm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Frazao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Antunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Castellanos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Narvai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dent Traumatol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="134" to="138" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Prevalence of fractured incisal teeth among children in Harris County</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">K</forename><surname>Alonge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Narendran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Williamson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Texas. Dent Traumatol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="218" to="221" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Social deprivation and traumatic dental injuries among 14-year-old schoolchildren in Newham</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Marcenes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">London. Dent Traumatol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="17" to="21" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Office of Population Censuses and Surveys (Her Majesty&apos;s Stationery Office</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>O'brien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Report of Dental Survey</title>
+		<imprint>
+			<date type="published" when="1993">1993. 1994</date>
+			<pubPlace>Londres</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Children&apos;s Dental Health in the United Kingdom</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Textbook and color atlas of traumatic injuries to the teeth</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Andreasen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Andreasen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Munksgaard</publisher>
+			<pubPlace>Copenhagen</pubPlace>
+		</imprint>
+	</monogr>
+	<note>3rd edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A photographically recorded assessment of enamel hypoplasia in fluoridated and non-fluoridated areas in England</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Beal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Fleming</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Dent J</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="249" to="252" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Assessment of enamel opacities in children in Sri Lanka and England using a photographic method</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Num</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ekanayake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Rugg-Gunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kdg</forename><surname>Sparamadu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Community Dent Health</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="175" to="188" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A comparison of clinical and photographic scoring using the TF and modified DDE indices</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Sabieha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Rock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Community Dent Health</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="82" to="87" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Agreement in the diagnosis of dental fluorosis in central incisors performed by a standardized photographic method and clinical examination</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chalub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">B</forename><surname>Lima-Arsati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Pordeus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Paiva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cad Saude Publica</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1017" to="1024" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Comparison of caries detection methods using varying numbers of intra-oral digital photographs with visual examination for epidemiology in children</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Boye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Pretty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tickle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Walsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Oral Health</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">6</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Comparison of photographic and visual assessment of occlusal caries with histology as the reference standard</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Boye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Pretty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tickle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Oral Health</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">10</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Alternative treatments for resin-based composite and amalgam restorations with marginal defects: a 12-month clinical trial</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Moncada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vildosola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Caamano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Caro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen Dent</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="314" to="318" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Early detection of white spot lesions with digital camera and remineralization therapy</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Iijima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust Dent J</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="274" to="280" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Photographs as a means of assessing developmental defects of enamel</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcgrath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ecm</forename><surname>Lo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Community Dent Oral Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="438" to="446" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A comparison of photographic, replication and direct clinical examination methods for detecting developmental defects of enamel</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Golkari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sabokseir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Pakshir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Dean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sheiham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Watt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Oral Health</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A standardized photographic method for evaluating enamel opacities including fluorosis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Cochran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Ketley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sanches</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mamai-Homata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A-M</forename><surname>Oila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arnad</forename><surname>Ib</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Community Dent Oral Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="19" to="27" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Traumatic injury to maxillary incisor teeth in a group of South Wales school children</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kingdon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Addy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Dummer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endod Dent Traumatol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="260" to="264" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Validation of selfreported periodontal disease: a systematic review</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Blicher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Joshipura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Eke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Dent Res</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="881" to="890" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Methods and logistics of a multidisciplinary survey of schoolchildren from Pelotas, in the Southern Region of Brazil</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Goettems</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vargas-Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Torriani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Domingues</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cad Saude Publica</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="867" to="878" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Oral health survey -basics methods, 4th edn. Geneva: World Health Organization</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Validity of 5-year-old children&apos;s oral hygiene pattern referred by mothers</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Cascaes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Peres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Peres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">F</forename><surname>Demarco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Matijasevich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Saude Publica</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="668" to="675" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Demarco FF. Prevalence and treatment demand after traumatic dental injury in South Brazilian schoolchildren</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Schuch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Goettems</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Torriani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dent Traumatol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="297" to="302" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A photographic study of developmental defects of enamel in Brazilian school children</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Ellwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Côrtes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'mullane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int Dent J</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="69" to="75" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Moving beyond sensitivity and specificity: using likelihood ratios to help interpret diagnostic tests</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Attia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust Prescr</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="111" to="113" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Agreement between photographic and clinical examinations in detecting developmental defects of enamel in infants</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Ferretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Slayton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nelson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Public Health Dent</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="204" to="209" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
